@@ -1,4 +1,4 @@
-# 🧪 Projeto de Testes Automatizados com Cypress do zero a nuvem
+# 🧪 Projeto de Testes Automatizados com Cypress — Do Zero à Nuvem
 
 ## 📌 Descrição do Projeto
 
@@ -46,7 +46,7 @@ git -v
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/joaoguilherme/cypress-do-zero-a-nuvem.git
+git clone https://github.com/joaoqaengineer-cmd/cypress-do-zero-a-nuvem.git
 ```
 
 2. Acesse a pasta do projeto:
@@ -153,7 +153,14 @@ Contribuições são bem-vindas!
 
 ## 👨‍💻 Autor
 
-Projeto desenvolvido para fins educacionais, com foco em evolução como **QA Engineer Full Stack**, valorizando não apenas código bem escrito, mas também **código bem documentado**.
+
+João Guilherme  
+QA Engineer | Testes Automatizados & Manuais | Cypress | CI/CD  
+
+QA Engineer apaixonado por testes automatizados e manuais, focado em excelência em software. Sempre aprendendo e buscando novos desafios.
+
+🔗 GitHub: https://github.com/joaoqaengineer-cmd  
+🔗 LinkedIn: https://www.linkedin.com/in/joão-guilherme-silva-b57bb2383
 
 ---
 
